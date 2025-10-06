@@ -1,2 +1,2 @@
 # WebTech-2025
-Repository for Web Technologies Course and Seminar
+Repository for Web Technologies Courses and Seminars
